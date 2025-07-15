@@ -32,13 +32,11 @@ A full-stack URL Shortener service built with **Node.js**, **Express**, and **Mo
 ## 📸 Screenshots
 
 ### 🔗 Frontend Interface
-![Screenshot1](<img width="1919" height="874" alt="Screenshot 2025-07-15 225856" src="https://github.com/user-attachments/assets/162e9b54-3d04-4c15-a2b1-8534d8bb65cd" />)
-![Screenshot2](<img width="1919" height="877" alt="Screenshot 2025-07-15 225911" src="https://github.com/user-attachments/assets/1c7859e7-50c2-4629-b441-72b125b046f1" />
-)
-![Screenshot3](<img width="1918" height="1018" alt="Screenshot 2025-07-15 225940" src="https://github.com/user-attachments/assets/78eae45d-81cc-4deb-960f-39606e3a29c4" />
-)
 
----
+![Screenshot1](https://github.com/user-attachments/assets/162e9b54-3d04-4c15-a2b1-8534d8bb65cd)
+![Screenshot2](https://github.com/user-attachments/assets/1c7859e7-50c2-4629-b441-72b125b046f1)
+![Screenshot3](https://github.com/user-attachments/assets/78eae45d-81cc-4deb-960f-39606e3a29c4)
+
 
 ## 🚀 Tech Stack
 
