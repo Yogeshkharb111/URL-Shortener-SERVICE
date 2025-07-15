@@ -1,0 +1,32 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variable files
+.env
+
+# Debug
+.vscode/*
+.idea/
+.DS_Store
+
+# Optional: OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore config if needed
+/config/default.json
